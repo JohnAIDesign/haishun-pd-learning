@@ -1,0 +1,12 @@
+{
+  "name": "PD学习",
+  "version": "1.0",
+  "entry": "index.html",
+  "language": "zh-CN",
+  "learning_units": 12,
+  "scope": "PDF阶段知识；听记尚未合并",
+  "deployment": "static",
+  "data_storage": "browser localStorage",
+  "external_dependencies": [],
+  "entry_sha256": "1eeafa4c2da73c6913fc08314ebe72f4ca190869da82ba810e7a495ecaf40174"
+}
