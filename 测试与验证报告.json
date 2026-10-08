@@ -1,0 +1,15 @@
+{
+  "version": "1.2.0",
+  "units": 12,
+  "knowledge_items": 99,
+  "checks": {
+    "script_syntax": "passed",
+    "all_12_render_functions": "passed (simulated DOM)",
+    "quiz_correct_and_incorrect": "passed all 12",
+    "completion_gates_and_note_invalidation": "passed all 12",
+    "legacy_record_migration": "passed",
+    "relative_file_links": "passed",
+    "browser_visual": "not performed"
+  },
+  "scope": "教学重编；未新增原始音频核验；521段仍待补证"
+}

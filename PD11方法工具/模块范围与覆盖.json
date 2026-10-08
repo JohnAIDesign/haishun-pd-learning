@@ -1,0 +1,41 @@
+{
+  "historical_module_release": {
+    "baseline_items": 60,
+    "PD04_items": 7,
+    "PD11_items": 7,
+    "total_items": 74,
+    "previous_reviewed": 246,
+    "module_read": 61,
+    "new_unique_reviewed": 49,
+    "total_reviewed": 295,
+    "total_paragraphs": 2347,
+    "remaining": 2052,
+    "exhaustive": false
+  },
+  "historical_note": "旧范围仅为模块首次发布历史记录",
+  "current_release": {
+    "package_version": "1.1.16",
+    "release_type": "阶段版",
+    "knowledge_items": 99,
+    "base_items": 85,
+    "PD04_items": 7,
+    "PD11_items": 7,
+    "reviewed_paragraphs": 1826,
+    "total_paragraphs": 2347,
+    "remaining_paragraphs": 521,
+    "exhaustive": false,
+    "audio_text_gap_day4": "未解决",
+    "content_version": "1.1",
+    "published_online": false,
+    "browser_verified": false,
+    "round_reviewed": 63,
+    "round_closed": 45,
+    "held_paragraphs": 18,
+    "earlier_held_paragraphs": 503,
+    "not_initially_processed": 0,
+    "merged_candidates": 0,
+    "new_items": 0,
+    "supplement_candidates": 0,
+    "source": "既有正式内容及E08独立终审处置结果与复习衔接"
+  }
+}

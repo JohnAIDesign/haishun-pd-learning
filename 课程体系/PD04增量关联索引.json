@@ -1,0 +1,29 @@
+{
+  "module": "PD04差距分析与优先改善.html",
+  "course": "PD-04",
+  "artifact": "A04",
+  "knowledge_file": "PD04方法工具/PD04知识条目.json",
+  "knowledge_ids": [
+    "PD04-K001",
+    "PD04-K002",
+    "PD04-K003",
+    "PD04-K004",
+    "PD04-K005",
+    "PD04-K006",
+    "PD04-K007"
+  ],
+  "baseline_note": "原60条索引为历史基线，本文件为已发布增量",
+  "coverage": {
+    "baseline_items": 60,
+    "module_items": 7,
+    "total_items": 67,
+    "baseline_reviewed": 202,
+    "module_read": 44,
+    "new_unique_reviewed": 44,
+    "total_reviewed": 246,
+    "total_paragraphs": 2347,
+    "remaining": 2101,
+    "exhaustive": false,
+    "note": "本模块复核含非知识段落的处置，不等于每段都形成新条目；旧版覆盖记录保留为历史快照。"
+  }
+}
